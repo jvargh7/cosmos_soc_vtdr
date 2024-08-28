@@ -1,0 +1,1 @@
+driver={ODBC Driver 17 for SQL Server};Server=tcp:PROJECTS;database=ProjectD0C076;Trusted_Connection=yes;

@@ -1,0 +1,56 @@
+ValidatedStateOrProvince_X,state,state_code,n_category,n_masked
+*Masked,NA,NA,<100,<11
+*Unspecified,NA,NA,<100,33
+Alabama,AL,01,100-999,632
+Alaska,AK,02,<100,<11
+Arizona,AZ,04,100-999,473
+Arkansas,AR,05,100-999,958
+California,CA,06,1000-4999,4705
+Colorado,CO,08,100-999,690
+Connecticut,CT,09,1000-4999,1596
+Delaware,DE,10,100-999,247
+District of Columbia,DC,11,<100,17
+Florida,FL,12,1000-4999,3157
+Georgia,GA,13,100-999,841
+Hawaii,HI,15,100-999,465
+Idaho,ID,16,100-999,932
+Illinois,IL,17,1000-4999,4943
+Indiana,IN,18,1000-4999,2823
+Iowa,IA,19,1000-4999,1916
+Kansas,KS,20,1000-4999,1215
+Kentucky,KY,21,1000-4999,1515
+Louisiana,LA,22,1000-4999,2921
+Maine,ME,23,1000-4999,1068
+Maryland,MD,24,1000-4999,1915
+Massachusetts,MA,25,1000-4999,4157
+Michigan,MI,26,>=5000,5250
+Minnesota,MN,27,1000-4999,2383
+Mississippi,MS,28,1000-4999,1862
+Missouri,MO,29,100-999,638
+Montana,MT,30,<100,19
+Nebraska,NE,31,100-999,136
+Nevada,NV,32,100-999,472
+New Hampshire,NH,33,100-999,676
+New Jersey,NJ,34,100-999,899
+New Mexico,NM,35,100-999,105
+New York,NY,36,>=5000,6021
+North Carolina,NC,37,1000-4999,2671
+North Dakota,ND,38,100-999,284
+Ohio,OH,39,>=5000,10054
+Oklahoma,OK,40,100-999,922
+Oregon,OR,41,1000-4999,1825
+Pennsylvania,PA,42,>=5000,7828
+Puerto Rico,PR,72,<100,<11
+Rhode Island,RI,44,<100,50
+South Carolina,SC,45,1000-4999,1830
+South Dakota,SD,46,<100,42
+Tennessee,TN,47,100-999,281
+Texas,TX,48,>=5000,8002
+Utah,UT,49,100-999,679
+Vermont,VT,50,100-999,419
+Virgin Islands,NA,NA,<100,<11
+Virginia,VA,51,1000-4999,3898
+Washington,WA,53,1000-4999,1748
+West Virginia,WV,54,1000-4999,1303
+Wisconsin,WI,55,>=5000,5312
+Wyoming,WY,56,<100,69

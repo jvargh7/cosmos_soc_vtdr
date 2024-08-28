@@ -1,0 +1,51 @@
+region,variable,value,raceeth
+Rural,Ophthalmology,8.789665824206685,Overall
+Rural,Primary Care,72.14265655714686,Overall
+Rural,HbA1c,62.34203875315922,Overall
+Rural,Blood Pressure,79.12103341757934,Overall
+Rural,LDL cholesterol,32.56107834877843,Overall
+Urban,Ophthalmology,8.788375418854452,Overall
+Urban,Primary Care,74.17977598463418,Overall
+Urban,HbA1c,66.031295343277975,Overall
+Urban,Blood Pressure,80.58289925571782,Overall
+Urban,LDL cholesterol,39.20790838961554,Overall
+Urban,Ophthalmology,7.10694670150996,NH White
+Urban,Ophthalmology,13.210403073689047,NH Black
+Urban,Ophthalmology,8.271350923928148,Hispanic
+Urban,Ophthalmology,9.62761180734951,NH Other
+Rural,Ophthalmology,8.59200495341205,NH White
+Rural,Ophthalmology,11.793328837475896,NH Black
+Rural,Ophthalmology,11.93580246848375,Hispanic
+Rural,Ophthalmology,6.726435154292585,NH Other
+Urban,Primary Care,74.46675300612607,NH White
+Urban,Primary Care,74.51956465222293,NH Black
+Urban,Primary Care,72.94769021177598,Hispanic
+Urban,Primary Care,74.76748108358444,NH Other
+Rural,Primary Care,72.58715316432627,NH White
+Rural,Primary Care,70.78571282125014,NH Black
+Rural,Primary Care,73.95938338156058,Hispanic
+Rural,Primary Care,67.16321346547394,NH Other
+Urban,HbA1c,66.89219811729956,NH White
+Urban,HbA1c,64.49689204299784,NH Black
+Urban,HbA1c,64.38782120021305,Hispanic
+Urban,HbA1c,67.3387125249164,NH Other
+Rural,HbA1c,62.787139142401905,NH White
+Rural,HbA1c,62.43950652145944,NH Black
+Rural,HbA1c,66.22041101338813,Hispanic
+Rural,HbA1c,54.36417472755749,NH Other
+Urban,Blood Pressure,80.31712881902072,NH White
+Urban,Blood Pressure,82.2318906615946,NH Black
+Urban,Blood Pressure,79.4156068752315,Hispanic
+Urban,Blood Pressure,80.6936114105799,NH Other
+Rural,Blood Pressure,79.15522748998647,NH White
+Rural,Blood Pressure,81.24292816349123,NH Black
+Rural,Blood Pressure,80.17845339189722,Hispanic
+Rural,Blood Pressure,76.77684519328233,NH Other
+Urban,LDL cholesterol,40.12978398920045,NH White
+Urban,LDL cholesterol,37.20194563145356,NH Black
+Urban,LDL cholesterol,37.16121424665273,Hispanic
+Urban,LDL cholesterol,41.170923918956504,NH Other
+Rural,LDL cholesterol,33.025326098358455,NH White
+Rural,LDL cholesterol,30.088150922042562,NH Black
+Rural,LDL cholesterol,37.996733268532445,Hispanic
+Rural,LDL cholesterol,26.622497074208546,NH Other

@@ -1,0 +1,8 @@
+source("cohort/rfc01_retrieving vitals data.R")
+source("cohort/rfc02_retrieving lab data.R")
+source("cohort/rfc03_retrieving medication data.R")
+source("cohort/rfc04_retrieving diagnosis data.R")
+source("cohort/rfc05_retrieving insurance status.R")
+source("cohort/rfc06_retrieving sources data.R")
+source("cohort/rfc07_retrieving procedures data.R")
+source("cohort/rfc08_retrieving encounters data.R")
